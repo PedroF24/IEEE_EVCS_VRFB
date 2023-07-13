@@ -5,3 +5,7 @@ https://mega.nz/file/xTcFiLSS#3yraQ1fr1xZWhOM9t2eYoquTYzjjePiKDsV2x1oZZ8w
 
 Link to "viento_fourier.mat"
 https://mega.nz/file/sSFRGCqT#ROLkliYredgCz_ahJNY6aYQtTZDMkyJaStXsWEvgjXY
+
+IMPORTANT NOTE:
+Note that other.mat files required to run the scripts can be automatically generated using the script "Calculo_inercia_aprox.m"
+Just carefully follow every instruction.
